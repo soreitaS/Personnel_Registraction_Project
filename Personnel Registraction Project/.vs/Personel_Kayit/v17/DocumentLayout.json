@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\github\\Personnel Registraction Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F13850C-F19E-40A9-A69D-406FC5F42076}|Personel_Kayit\\Personel_Kayit.csproj|c:\\users\\\u0130brah\u0130m\\desktop\\github\\personnel registraction project\\personel_kayit\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F13850C-F19E-40A9-A69D-406FC5F42076}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F13850C-F19E-40A9-A69D-406FC5F42076}|Personel_Kayit\\Personel_Kayit.csproj|C:\\Users\\\u0130BRAH\u0130M\\Desktop\\github\\Personnel Registraction Project\\personel_kayit\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F13850C-F19E-40A9-A69D-406FC5F42076}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F13850C-F19E-40A9-A69D-406FC5F42076}|Personel_Kayit\\Personel_Kayit.csproj|C:\\Users\\\u0130BRAH\u0130M\\Desktop\\github\\Personnel Registraction Project\\personel_kayit\\frmanaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F13850C-F19E-40A9-A69D-406FC5F42076}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\frmanaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F13850C-F19E-40A9-A69D-406FC5F42076}|Personel_Kayit\\Personel_Kayit.csproj|C:\\Users\\\u0130BRAH\u0130M\\Desktop\\github\\Personnel Registraction Project\\personel_kayit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F13850C-F19E-40A9-A69D-406FC5F42076}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F13850C-F19E-40A9-A69D-406FC5F42076}|Personel_Kayit\\Personel_Kayit.csproj|C:\\Users\\\u0130BRAH\u0130M\\Desktop\\github\\Personnel Registraction Project\\personel_kayit\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F13850C-F19E-40A9-A69D-406FC5F42076}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmAnaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\github\\Personnel Registraction Project\\Personel_Kayit\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "Personel_Kayit\\FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\github\\Personnel Registraction Project\\Personel_Kayit\\FrmAnaForm.cs [Design]",
+              "RelativeToolTip": "Personel_Kayit\\FrmAnaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-02T14:51:34.626Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAnaForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\github\\Personnel Registraction Project\\Personel_Kayit\\FrmAnaForm.Designer.cs",
+              "RelativeDocumentMoniker": "Personel_Kayit\\FrmAnaForm.Designer.cs",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\github\\Personnel Registraction Project\\Personel_Kayit\\FrmAnaForm.Designer.cs",
+              "RelativeToolTip": "Personel_Kayit\\FrmAnaForm.Designer.cs",
+              "ViewState": "AQIAAAUCAAAAAAAAAAAQwBECAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T20:08:10.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmGiris.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\github\\Personnel Registraction Project\\Personel_Kayit\\FrmGiris.cs",
+              "RelativeDocumentMoniker": "Personel_Kayit\\FrmGiris.cs",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\github\\Personnel Registraction Project\\Personel_Kayit\\FrmGiris.cs",
+              "RelativeToolTip": "Personel_Kayit\\FrmGiris.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-04T18:41:39.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\github\\Personnel Registraction Project\\Personel_Kayit\\Program.cs",
+              "RelativeDocumentMoniker": "Personel_Kayit\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\github\\Personnel Registraction Project\\Personel_Kayit\\Program.cs",
+              "RelativeToolTip": "Personel_Kayit\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-04T18:38:25.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\github\\Personnel Registraction Project\\Personel_Kayit\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "Personel_Kayit\\FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\github\\Personnel Registraction Project\\Personel_Kayit\\FrmAnaForm.cs",
+              "RelativeToolTip": "Personel_Kayit\\FrmAnaForm.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAwFUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-02T16:11:16.478Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
